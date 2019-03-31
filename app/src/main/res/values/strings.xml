@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Learn Application 2</string>
+    <string name="author1">Emma Francis</string>
+    <string name="author2">Meiying Ng</string>
+    <string name="author3">Arto Marttinen</string>
+    <string name="author4">Prashant Gurung</string>
+    <string name="desc1">Glacier near body of water</string>
+    <string name="desc2">Green leafed plant</string>
+    <string name="desc3">Sea of clouds</string>
+    <string name="desc4">Close-up photography of pink petaled flower</string>
+    <string name="tags1">Cloud,Sky,Mountain</string>
+    <string name="tags2">Green,Greenery,GreenBean</string>
+    <string name="tags3">Sunset,Orange,Storm cloud</string>
+    <string name="tags4">Dahlia,Blossom,Plant</string>
+    <string name="content_desc_miniature">Thumbnail photo</string>
+    <string name="content_desc_big_image">The big photo</string>
+
+</resources>
